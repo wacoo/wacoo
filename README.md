@@ -1,8 +1,9 @@
+**About**
 - 👋 Hi, I’m @wacoo, a Fullstack Developer, Game Designer, Software Engineer.
-- 🎸I play the guitar and write in my free time. 
+- 🎸I play the guitar and 🖋️ write in my free time. 
 - 📫 You can reach me at wabaham9@gmail.com, +251920712850
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wacoo)](https://github.com/anuraghazra/github-readme-stats)
+          [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wacoo)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 wacoo/wacoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
