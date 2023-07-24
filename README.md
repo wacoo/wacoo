@@ -1,5 +1,6 @@
 **About**
-Greetings! I'm Wondmagegn Chosha, a full-stack web developer with a flair for building impactful applications. My forte lies in HTML, CSS, JavaScript, Flask, and I've also dabbled in Unity game development.
+
+Greetings! I'm Wondmagegn Chosha, a full-stack web developer with a flair for building impactful applications. My forte lies in Webpack, JavaScript, and Flask, and I've also dabbled in Unity game development.
 
 My career started in application development, where I worked on e-learning platforms and honed my DevOps skills. Since then, I've explored desktop and mobile app development, with a focus on document verification and forgery detection.
 
