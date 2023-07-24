@@ -1,7 +1,14 @@
 **About**
-- 👋 Hi, I’m @wacoo, a Fullstack Developer, Game Designer, Software Engineer.
+Greetings! I'm Wondmagegn Chosha, a full-stack web developer with a flair for building impactful applications. My forte lies in HTML, CSS, JavaScript, Flask, and I've also dabbled in Unity game development.
+
+My career started in application development, where I worked on e-learning platforms and honed my DevOps skills. Since then, I've explored desktop and mobile app development, with a focus on document verification and forgery detection.
+
+Recently, I completed a rigorous software engineering program, which catapulted my coding skills to a professional level. Currently, I'm a student at a cutting-edge full-stack web development school that specializes in remote team collaboration.
+
+As a passionate developer, I'm always seeking new challenges and opportunities to innovate. With my expertise in game development and web development, I'm eager to create innovative applications that make a difference in the world. Let's build something great together!
+<!-- 👋 Hi, I’m @wacoo, a Fullstack Developer, Game Designer, Software Engineer.
 - 🎸I play the guitar and 🖋️ write in my free time. 
-- 📫 You can reach me at wabaham9@gmail.com, +251920712850
+- 📫 You can reach me at wabaham9@gmail.com, +251920712850 -->
 
 
 
