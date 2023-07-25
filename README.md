@@ -30,7 +30,7 @@
 
 
 
-<!--**About**
+**About**
 
 Greetings! I'm Wondmagegn Chosha, a full-stack web developer with a flair for building impactful applications. My forte lies in Webpack, JavaScript, and Flask, and I've also dabbled in Unity game development.
 
@@ -41,11 +41,7 @@ Recently, I completed a rigorous software engineering program, which catapulted 
 As a passionate developer, I'm always seeking new challenges and opportunities to innovate. With my expertise in game development and web development, I'm eager to create innovative applications that make a difference in the world. Let's build something great together!
 <!-- 👋 Hi, I’m @wacoo, a Fullstack Developer, Game Designer, Software Engineer.
 - 🎸I play the guitar and 🖋️ write in my free time. 
-- 📫 You can reach me at wabaham9@gmail.com, +251920712850 -->
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wacoo)](https://github.com/anuraghazra/github-readme-stats)
+- 📫 You can reach me at wabaham9@gmail.com, +251920712850
 
 <!---
 wacoo/wacoo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
