@@ -1,8 +1,8 @@
-# Hi there, I'm Muluken Zemed 👋 
+# Hi there, I'm Wondmagegn Chosha 👋 
 
 <p align="left"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/mulugithub/count.svg" />
+  <img src="https://profile-counter.glitch.me/wacoo/count.svg" />
 </p>
 
 ## I'm a Full-stack developer student at Microverse Coding School!
