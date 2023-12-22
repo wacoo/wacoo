@@ -1,17 +1,44 @@
 # Hi there, I'm Wondmagegn Chosha 👋 
 
 <p align="left"> 
-  Job Seeker<br>
+  Full-stack Developer | Desktop & Mobile Applications Enthusiast 🚀<br>
   <img src="https://profile-counter.glitch.me/wacoo/count.svg" />
 </p>
 
-## I'm a Full-stack developer with experience in desktop, mobile, and game development!
+## About Me
 
-- 🌱 I’ve successfully completed the Backend development program at ALX ✊
-- 🧑‍🎓 I’m a graduate of the Full-stack development program at Microverse Remote Coding School 😁
-- 🥅 2024 Goals: Secure a fulfilling position as a Full Stack Developer.
-- ⚡ Fun fact: I have a passion for AI and I love to write 🌎
-- 😻 Currently, I'm located in Ethiopia.
+I'm a dedicated Full-stack Developer with a strong focus on building robust and scalable applications. My expertise lies in crafting seamless user experiences for both desktop and mobile platforms. 
+
+## Specializations
+
+- **React/Redux:** Leveraging the power of React for dynamic and interactive user interfaces, complemented by Redux for state management 🌐.
+  
+- **Ruby on Rails:** Proficient in developing backend systems and web applications using the elegant Ruby on Rails framework 💎.
+
+- **Flask:** Experienced in building lightweight and efficient web applications with Flask, providing tailored solutions to specific project requirements 🌐.
+
+## Experience
+
+I bring a wealth of experience in the development of desktop and mobile applications, ensuring high-performance, user-friendly, and cross-platform solutions 📱💻.
+
+## Tech Stack
+
+My technology stack includes but is not limited to:
+
+- **Frontend:** React, Redux
+- **Backend:** Ruby on Rails, Flask
+- **Database:** PostgreSQL, MySQL
+- **Tools & Platforms:** Git, Webpack
+
+## Achievements
+
+- Completed the Backend development program at ALX.
+- Graduated from the Full-stack development program at Microverse Remote Coding School.
+- I have a Masters in Computer Science
+
+## Goals
+
+My aim is to contribute my skills and knowledge to impactful projects, pushing the boundaries of technology and delivering exceptional results 🎯.
 
 ## Connect  with me 🌐 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/wondmagegn-abriham-b867289a) 
