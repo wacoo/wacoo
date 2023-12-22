@@ -2,6 +2,7 @@
 
 <p align="left"> 
   Full-stack Developer | Desktop & Mobile Applications Enthusiast 🚀<br><br>
+  Visitor count: <br>
   <img src="https://profile-counter.glitch.me/wacoo/count.svg" />
 </p>
 
