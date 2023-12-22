@@ -33,6 +33,7 @@ My technology stack includes but is not limited to:
 
 - Completed the Backend development program at ALX.
 - Graduated from the Full-stack development program at Microverse Remote Coding School.
+- I have a Master's degree in Computer Science from Addis Ababa University 
 
 ## Goals
 
