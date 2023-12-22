@@ -4,6 +4,8 @@
   Full-stack Developer | Desktop & Mobile Applications Enthusiast 🚀<br>
 </p>
 
+##Visitor count:
+  <img src="https://profile-counter.glitch.me/wacoo/count.svg" /><br>
 # 📊 My Stats:
 ![](https://github-readme-stats.vercel.app/api?username=wacoo&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=wacoo&theme=react&hide_border=false)<br/>
