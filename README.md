@@ -10,7 +10,7 @@
 - 🌱 I’ve successfully completed the Backend development program at ALX ✊
 - 🧑‍🎓 I’m a graduate of the Full-stack development program at Microverse Remote Coding School 😁
 - 🥅 2024 Goals: Secure a fulfilling position as a Full Stack Developer.
-- ⚡ Fun fact: I have a passion for writing 🌎
+- ⚡ Fun fact: I have a passion for AI and I love to write 🌎
 - 😻 Currently, I'm located in Ethiopia.
 
 ## Connect  with me 🌐 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
