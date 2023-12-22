@@ -1,7 +1,7 @@
 # Hi there, I'm Wondmagegn Chosha 👋 
 
 <p align="left"> 
-  Full-stack Developer | Desktop & Mobile Applications Enthusiast 🚀<br>
+  Full-stack Developer | Desktop & Mobile Applications Enthusiast 🚀<br><br>
   <img src="https://profile-counter.glitch.me/wacoo/count.svg" />
 </p>
 
